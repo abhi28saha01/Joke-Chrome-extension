@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    min-width: 300px;
+    min-height: 200px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 18px;
+}
+
+#joke{
+    text-decoration: underline;
+}
